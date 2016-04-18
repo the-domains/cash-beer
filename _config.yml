@@ -1,0 +1,28 @@
+name: cash.beer
+favicon: null
+layout_spectrum: 0.9752595813479275
+typography_spectrum: 0.921760008437559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4736288993153721
+  lightness: 0.5780852732714266
+  saturation: 0.8987043180968612
+  rhythmicContrast: 0.6641267575323582
+purpose: []
